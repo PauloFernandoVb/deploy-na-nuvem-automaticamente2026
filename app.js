@@ -34,5 +34,5 @@ function getIpAddress() {
 }
 
 app.listen(port, () => {
-  console.log(`Servidor rodando em http://localhost:${port}`);
+  console.log(`Servidor rodando certo em http://localhost:${port}`);
 });
